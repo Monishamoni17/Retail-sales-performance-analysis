@@ -3,7 +3,6 @@
 ![Project](https://img.shields.io/badge/Project-Retail%20Sales%20Analytics-blue)
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📌 Project Overview
 
